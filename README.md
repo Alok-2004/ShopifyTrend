@@ -1,5 +1,5 @@
 # ShopifyTrends
-# Description
+Description
 ShopifyTrends is a basic shopping website designed to deliver a streamlined and user-friendly shopping experience. The platform includes essential features for users to browse products, add items to their cart, and complete purchases. With an intuitive interface and responsive design, ShopifyTrends ensures accessibility across devices.
 
 # Key Features
